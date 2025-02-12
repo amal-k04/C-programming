@@ -31,4 +31,5 @@ int main()
 	{
 		printf("THE VALUE IS NOT FOUND");
 	}
+	return 0;
 }
