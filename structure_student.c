@@ -8,7 +8,7 @@ struct student{
 
 int main(){
 	int num, total;
-	printf("Enter the no: of Employee:");
+	printf("Enter the no: of Students:");
 	scanf("%d",&num);
 	struct student st[num];
 	for(int i=0;i<num;i++){
